@@ -4,11 +4,11 @@ Welcome to my GitHub profile.
 I am a computer science student at Michigan State University interested in Computer Graphics, Data Analytics, and general coding 🧑‍💻.
 Programming languages and libraries I know:
 
-  Python - NumPy, Pandas, TensorFlow, SciKitLearn, Matplotlib
+  Python - NumPy, Pandas, TensorFlow, SciKitLearn, Matplotlib;
   
-  C++ - STL, math.h
+  C++ - STL (Standard Library), String, IOManip, Algorithms, cmath;
   
-  HTML and CSS
+  HTML and CSS;
 
 Contact me at: mehtadak@msu.edu
 
