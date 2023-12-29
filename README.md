@@ -1,6 +1,16 @@
-Daksh Mehta
+Hello everyone!
+Welcome to my GitHub profile. 
 
-Contact: mehtadak@msu.edu
+I am a computer science student at Michigan State University interested in Computer Graphics, Data Analytics, and general coding 🧑‍💻.
+Programming languages and libraries I know:
+
+  Python - NumPy, Pandas, TensorFlow, SciKitLearn, Matplotlib
+  
+  C++ - STL, math.h
+  
+  HTML and CSS
+
+Contact me at: mehtadak@msu.edu
 
 <!---
 mehtadak/mehtadak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
