@@ -10,6 +10,8 @@ Programming languages and libraries I know:
   
   HTML and CSS;
 
+Visit and play my games at: [https://mehtadak.itch.io/](url)
+
 Contact me at: mehtadak@msu.edu
 
 <!---
